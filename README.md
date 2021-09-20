@@ -19,7 +19,7 @@ none because this is library
 - Make a new object of CalculateTheLengthOfTwoPoints (i.e) `CalculateTheLengthOfTwoPoints cl = new CalculateTheLengthOfTwoPoints();` in your created java file.
 - Set your points `setX1()`,  `setY1()`,  `setX2()`,  `setY1()`. After you set it you can calculate with `calculateLength()` method. 
 - If you want to change point, you can chagne it with re set your point and then calculate again with `calculateLength()`
-- Heres a Description in 
+- Heres a description of methods that can be use with this class
 
 | Method  |  Description |
 | ------------- | ------------- |
