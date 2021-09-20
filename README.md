@@ -1,11 +1,10 @@
 # Calculate Length Two Points CS
 
 ## Problem Description
-Create a library to calculate length of 2 points in cartean system
+Create a library to calculate length of 2 points in cartesian system
 
 ## Dev Environtment Setup
 - In this usecase we use replit and we ecnourage you to use replit so your system will same with us
-- 
 
 ## How to run test
 - Click section `Unit tests` and then
