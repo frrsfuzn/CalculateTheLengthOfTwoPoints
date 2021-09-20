@@ -19,7 +19,7 @@ none because this is library
 - Then click run to run the app
 ### Use our library
 - If you want to implement this library in your java file, make a java file first.
--Then make a new object of CalculateTheLengthOfTwoPoints (i.e) `CartesianSystem cs = new CartesianSystem();` in your created java file.
+- Then make a new object of CalculateTheLengthOfTwoPoints (i.e) `CartesianSystem cs = new CartesianSystem();` in your created java file.
 - Set your points `setCoordinateX1()`,  `setCoordinateY1()`,  `setCoordinateX2()`,  `setCoordinateY1()`. After you set it you can calculate with `calculateLength()` method. 
 - If you want to change point, you can chagne it with re set your point and then calculate again with `calculateLength()`
 - Heres a description of methods that can be use with this class
